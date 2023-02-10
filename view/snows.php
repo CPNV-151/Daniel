@@ -8,11 +8,11 @@
 
 // tampon de flux stocké en mémoire
 ob_start();
-$title="RentASnow - Perdu";
+$title="RentASnow - Snows";
 ?>
 
     <div class="span12" id="divMain">
-        <h1>Oupssss... vous vous êtes perdu ;(</h1>
+        <h1>Les snowboards vont apparaître ici</h1>
 
         <a href="index.php?action=home">Retourner à l'accueil</a>
 
