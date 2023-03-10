@@ -65,9 +65,7 @@
                         <div class="nav-collapse collapse">
                             <ul class="nav nav-pills ddmenu">
                                 <li><a href="index.php?action=home">Home</a></li>
-                            </ul>
-                            <ul class="nav nav-pills ddmenu">
-                                <li><a href="index.php?action=snows">Snows</a> </li>
+                                <li><a href="index.php?action=snows">Snows</a></li>
                             </ul>
                         </div>
                     </div>
@@ -188,10 +186,10 @@
                     <div class="span12">
                         <p class="copyright">Copyright © 2019 Rent A Snow. All Rights Reserved.</p>
                         <p class="social_bookmarks">
-                            <a href="#"><i class="social foundicon-facebook"></i> Facebook</a>
-                            <a href=""><i class="social foundicon-twitter"></i> Twitter</a>
-                            <a href="#"><i class="social foundicon-pinterest"></i> Pinterest</a>
-                            <a href="#"><i class="social foundicon-rss"></i> Rss</a>
+                            <a href="#"><i class="social foundicon-facebook"></i> Facebook</a>
+                            <a href=""><i class="social foundicon-twitter"></i> Twitter</a>
+                            <a href="#"><i class="social foundicon-pinterest"></i> Pinterest</a>
+                            <a href="#"><i class="social foundicon-rss"></i> Rss</a>
                         </p>
                     </div>
                 </div>

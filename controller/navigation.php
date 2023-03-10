@@ -4,7 +4,6 @@ function home(){
     require "view/home.php";
 }
 
-function lost()
-{
+function lost(){
     require "view/lost.php";
 }

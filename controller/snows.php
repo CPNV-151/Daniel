@@ -1,5 +1,15 @@
 <?php
 
+require "./model/snows.php";
+
 function snows(){
-require "view/snows.php";
+    $snows = getSnows();
+    require "view/snows.php";
+}
+
+function snow($code)
+{
+    $snows = getSnow($code);
+    $snow = $snows[0];
+    require "view/snowDisplay.php";
 }
